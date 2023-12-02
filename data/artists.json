@@ -1,0 +1,1565 @@
+{
+    "artists": [
+        {
+            "id": "ae97ba5f-e7ed-4ed5-9a53-eba415fc49d4",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "MORGENSHTERN",
+            "sort-name": "MORGENSHTERN",
+            "gender": "male",
+            "area": {
+                "id": "46f3c1de-24b7-4ced-bea5-c0e2b84d0598",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Ufa",
+                "sort-name": "Ufa",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "46f3c1de-24b7-4ced-bea5-c0e2b84d0598",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Ufa",
+                "sort-name": "Ufa",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Russian youtuber, rapper",
+            "isnis": [
+                "0000000476109942"
+            ],
+            "life-span": {
+                "begin": "1998-02-17",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Morgenshtern, Alisher",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Alisher Morgenshtern",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Моргенштерн, Алишер",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Алишер Моргенштерн",
+                    "locale": "ru",
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "rap"
+                },
+                {
+                    "count": 3,
+                    "name": "hip hop"
+                },
+                {
+                    "count": 1,
+                    "name": "russian rap"
+                }
+            ]
+        },
+        {
+            "id": "b7539c32-53e7-4908-bda3-81449c367da6",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Lana Del Rey",
+            "sort-name": "Del Rey, Lana",
+            "gender": "female",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+                "type": "District",
+                "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+                "name": "Manhattan",
+                "sort-name": "Manhattan",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00579892274",
+                "00667129814"
+            ],
+            "isnis": [
+                "0000000360454402",
+                "0000000368678910"
+            ],
+            "life-span": {
+                "begin": "1985-06-21",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "拉娜德雷",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "拉娜德雷",
+                    "locale": "zh",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "ラナ・デル・レイ",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "ラナ・デル・レイ",
+                    "locale": "ja",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "拉娜德芮",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "拉娜德芮",
+                    "locale": "zh_Hans",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "拉娜德芮",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "拉娜德芮",
+                    "locale": "zh",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Album title",
+                    "name": "Honeymoon",
+                    "locale": "en_US",
+                    "type": null,
+                    "primary": null,
+                    "begin-date": "2015",
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Daytona, Miss",
+                    "name": "Miss Daytona",
+                    "locale": "en_US",
+                    "type": null,
+                    "primary": null,
+                    "begin-date": "2010",
+                    "end-date": "2011"
+                },
+                {
+                    "sort-name": "Grant, Lizzi",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Lizzi Grant",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": "2005",
+                    "end-date": "2005"
+                },
+                {
+                    "sort-name": "LDR",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "LDR",
+                    "locale": "es",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Del Ray, Lana",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Lana Del Ray",
+                    "locale": "es",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": "2009",
+                    "end-date": "2011-06"
+                },
+                {
+                    "sort-name": "Del Mar, Lana Rey",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Lana Rey Del Mar",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Grant, Lizzy",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Lizzy Grant",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": "2009"
+                },
+                {
+                    "sort-name": "Grant, Elizabeth Woolridge",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Elizabeth Woolridge Grant",
+                    "locale": "en",
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Sparkle Jump Rope Queen",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Sparkle Jump Rope Queen",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": "2008-12-31",
+                    "end-date": "2008-12-31"
+                },
+                {
+                    "sort-name": "Jailer, May",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "May Jailer",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": "2004",
+                    "end-date": "2007"
+                },
+                {
+                    "sort-name": "Grant, Elizabeth",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Elizabeth Grant",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "electronic"
+                },
+                {
+                    "count": 4,
+                    "name": "pop"
+                },
+                {
+                    "count": 0,
+                    "name": "american"
+                },
+                {
+                    "count": 1,
+                    "name": "singer-songwriter"
+                },
+                {
+                    "count": 0,
+                    "name": "singer"
+                },
+                {
+                    "count": 0,
+                    "name": "remix"
+                },
+                {
+                    "count": 5,
+                    "name": "alternative"
+                },
+                {
+                    "count": 1,
+                    "name": "americana"
+                },
+                {
+                    "count": 10,
+                    "name": "indie pop"
+                },
+                {
+                    "count": 1,
+                    "name": "ballad"
+                },
+                {
+                    "count": 1,
+                    "name": "neo-psychedelia"
+                },
+                {
+                    "count": 4,
+                    "name": "dream pop"
+                },
+                {
+                    "count": 2,
+                    "name": "alternative pop"
+                },
+                {
+                    "count": 2,
+                    "name": "chamber pop"
+                },
+                {
+                    "count": 4,
+                    "name": "trip hop"
+                },
+                {
+                    "count": 0,
+                    "name": "sadcore"
+                },
+                {
+                    "count": -1,
+                    "name": "film soundtrack"
+                },
+                {
+                    "count": 0,
+                    "name": "2010s"
+                },
+                {
+                    "count": 2,
+                    "name": "art pop"
+                },
+                {
+                    "count": -1,
+                    "name": "pop. alternative"
+                },
+                {
+                    "count": 0,
+                    "name": "next"
+                },
+                {
+                    "count": 1,
+                    "name": "tumblr"
+                },
+                {
+                    "count": 0,
+                    "name": "indie/dream-pop"
+                },
+                {
+                    "count": 0,
+                    "name": "karen"
+                },
+                {
+                    "count": -2,
+                    "name": "+usa (new york:manhatten)"
+                },
+                {
+                    "count": 1,
+                    "name": "sad girl pop"
+                },
+                {
+                    "count": 0,
+                    "name": "question for the culture"
+                },
+                {
+                    "count": 1,
+                    "name": "hawaiian glam metal"
+                }
+            ]
+        },
+        {
+            "id": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 39,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Britney Spears",
+            "sort-name": "Spears, Britney",
+            "gender": "female",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "ff7eb755-8d72-447f-a5f2-d7a4350cafd5",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "McComb",
+                "sort-name": "McComb",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00353662065"
+            ],
+            "isnis": [
+                "0000000109898265"
+            ],
+            "life-span": {
+                "begin": "1981-12-02",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "ブリトニー・スピアーズ",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "ブリトニー・スピアーズ",
+                    "locale": "ja",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Bretney Spears",
+                    "name": "Bretney Spears",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "B. Spears",
+                    "name": "B. Spears",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Brittany Spears",
+                    "name": "Brittany Spears",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Briteny Spears",
+                    "name": "Briteny Spears",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Brittney Spears",
+                    "name": "Brittney Spears",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Spears, Britney Jean",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Britney Jean Spears",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 16,
+                    "name": "pop"
+                },
+                {
+                    "count": 0,
+                    "name": "dance"
+                },
+                {
+                    "count": 5,
+                    "name": "american"
+                },
+                {
+                    "count": 0,
+                    "name": "usa"
+                },
+                {
+                    "count": 2,
+                    "name": "electropop"
+                },
+                {
+                    "count": 0,
+                    "name": "américain"
+                },
+                {
+                    "count": 2,
+                    "name": "2000s"
+                },
+                {
+                    "count": 3,
+                    "name": "dance-pop"
+                },
+                {
+                    "count": 0,
+                    "name": "urban pop"
+                },
+                {
+                    "count": 2,
+                    "name": "electro house"
+                },
+                {
+                    "count": 0,
+                    "name": "pop and chart"
+                },
+                {
+                    "count": 4,
+                    "name": "teen pop"
+                },
+                {
+                    "count": 0,
+                    "name": "contemporary r&b"
+                },
+                {
+                    "count": -1,
+                    "name": "if you seek amy"
+                }
+            ]
+        },
+        {
+            "id": "257891db-1f69-4660-894d-075e355431a8",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Edward Maya",
+            "sort-name": "Maya, Edward",
+            "gender": "male",
+            "country": "RO",
+            "area": {
+                "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Romania",
+                "sort-name": "Romania",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "București",
+                "sort-name": "București",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Romanian DJ and singer",
+            "ipis": [
+                "00602908269"
+            ],
+            "isnis": [
+                "0000000368618838"
+            ],
+            "life-span": {
+                "begin": "1986-06-29",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Ilie, Edward Marian",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Edward Marian Ilie",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Edward Maya & Vika Jigulina",
+                    "name": "Edward Maya & Vika Jigulina",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "romanian"
+                },
+                {
+                    "count": 1,
+                    "name": "deep house"
+                },
+                {
+                    "count": 1,
+                    "name": "romanian singer"
+                }
+            ]
+        },
+        {
+            "id": "2e9a4203-c99d-4b53-8a04-a0f4fae73e76",
+            "score": 100,
+            "name": "Yung Thug",
+            "sort-name": "Yung Thug",
+            "disambiguation": "performed \"Hood Salute\" on \"Deep in the Heart of Texas, Vol. 6\"",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "9a6273b2-72fa-47a4-a48b-073d6cbe037d",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Rosa Jewel Walton",
+            "sort-name": "Walton, Rosa Jewel",
+            "gender": "female",
+            "area": {
+                "id": "279c5d9a-0165-493e-bed5-fc691be6a4e4",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Norwich",
+                "sort-name": "Norwich",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00748958670"
+            ],
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "80ccfede-c258-4575-a7ad-c982e9932e0f",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Sheryl Crow",
+            "sort-name": "Crow, Sheryl",
+            "gender": "female",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "82e9335c-a12e-421c-bcc1-a14f83b27b39",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Kennett",
+                "sort-name": "Kennett",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00236495646"
+            ],
+            "isnis": [
+                "0000000114462378"
+            ],
+            "life-span": {
+                "begin": "1962-02-11",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Crow, Sheryl Suzanne",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Sheryl Suzanne Crow",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Sheryl Crown",
+                    "name": "Sheryl Crown",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "S. Crow",
+                    "name": "S. Crow",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Shery Crow",
+                    "name": "Shery Crow",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Cheryl Crow",
+                    "name": "Cheryl Crow",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Sheryl Crow and Friends",
+                    "name": "Sheryl Crow and Friends",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 3,
+                    "name": "rock"
+                },
+                {
+                    "count": 3,
+                    "name": "pop"
+                },
+                {
+                    "count": 1,
+                    "name": "alternative rock"
+                },
+                {
+                    "count": 0,
+                    "name": "folk"
+                },
+                {
+                    "count": 0,
+                    "name": "american"
+                },
+                {
+                    "count": 0,
+                    "name": "country"
+                },
+                {
+                    "count": 0,
+                    "name": "blues rock"
+                },
+                {
+                    "count": 1,
+                    "name": "country rock"
+                },
+                {
+                    "count": 2,
+                    "name": "americana"
+                },
+                {
+                    "count": 0,
+                    "name": "pop rock"
+                },
+                {
+                    "count": 0,
+                    "name": "classic pop and rock"
+                },
+                {
+                    "count": 0,
+                    "name": "contemporary country"
+                },
+                {
+                    "count": 0,
+                    "name": "mezzo-soprano"
+                },
+                {
+                    "count": 0,
+                    "name": "pop soul"
+                },
+                {
+                    "count": 0,
+                    "name": "singer/songwriter"
+                },
+                {
+                    "count": 1,
+                    "name": "2008 universal fire victim"
+                },
+                {
+                    "count": 1,
+                    "name": "aln-sh"
+                }
+            ]
+        },
+        {
+            "id": "e97e9533-a69b-431d-a88f-e9a519be6c0d",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Kordhell",
+            "sort-name": "Kordhell",
+            "gender": "male",
+            "area": {
+                "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Los Angeles",
+                "sort-name": "Los Angeles",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Mick Kenney alias for phonk music",
+            "life-span": {
+                "ended": null
+            },
+            "tags": [
+                {
+                    "count": 0,
+                    "name": "phonk"
+                },
+                {
+                    "count": 2,
+                    "name": "drift phonk"
+                }
+            ]
+        },
+        {
+            "id": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Doja Cat",
+            "sort-name": "Doja Cat",
+            "gender": "female",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "44a76f34-afec-4171-a0a0-180cf1f5dfee",
+                "type": "District",
+                "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+                "name": "Tarzana",
+                "sort-name": "Tarzana",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00361728553"
+            ],
+            "isnis": [
+                "0000000465726144"
+            ],
+            "life-span": {
+                "begin": "1995-10-21",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "ドージャ・キャット",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "ドージャ・キャット",
+                    "locale": "ja",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Amalaratna Zandile Dlamini",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Amalaratna Zandile Dlamini",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Dlamini, Amala Ratna Zandile",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Amala Ratna Zandile Dlamini",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "pop"
+                },
+                {
+                    "count": 1,
+                    "name": "rap"
+                },
+                {
+                    "count": 1,
+                    "name": "hip hop"
+                },
+                {
+                    "count": 1,
+                    "name": "pop rap"
+                },
+                {
+                    "count": 1,
+                    "name": "west coast hip hop"
+                },
+                {
+                    "count": 0,
+                    "name": "r&b"
+                },
+                {
+                    "count": 1,
+                    "name": "trap"
+                },
+                {
+                    "count": 1,
+                    "name": "nuno"
+                }
+            ]
+        },
+        {
+            "id": "202d1b8d-af85-4c51-8370-f7fcb4d5e972",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Sati Akura",
+            "sort-name": "Sati Akura",
+            "gender": "female",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "life-span": {
+                "begin": "1996-01-14",
+                "ended": null
+            }
+        },
+        {
+            "id": "f7456b5b-e5a5-454e-b5db-047308210c8e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "ДДТ",
+            "sort-name": "DDT",
+            "country": "RU",
+            "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Russian rock band",
+            "life-span": {
+                "begin": "1980",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "ÄÄÒ",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "ÄÄÒ",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "DDT",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "DDT",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "ДДТ",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "ДДТ",
+                    "locale": "ru",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "russian"
+                },
+                {
+                    "count": 1,
+                    "name": "russian rock"
+                }
+            ]
+        },
+        {
+            "id": "d262ea27-3ffe-40f7-b922-85c42d625e67",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Pitbull",
+            "sort-name": "Pitbull",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "4a9aeb42-3763-4234-8fb8-1167ac1dfdfe",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Miami",
+                "sort-name": "Miami",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "American rapper",
+            "ipis": [
+                "00419848323"
+            ],
+            "isnis": [
+                "0000000078456455",
+                "0000000368470028"
+            ],
+            "life-span": {
+                "begin": "1981-01-15",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Pitbull Cuban",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Pitbull Cuban",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Pérez, Armando Christian",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Armando Christian Pérez",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": "1981-01-15",
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Mr. Worldwide",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Mr. Worldwide",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Pit Bull",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Pit Bull",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Mr. 305",
+                    "name": "Mr. 305",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Perez, Armando C.",
+                    "name": "Armando C. Perez",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "dance"
+                },
+                {
+                    "count": 2,
+                    "name": "hip hop"
+                },
+                {
+                    "count": 0,
+                    "name": "hiphop"
+                },
+                {
+                    "count": 4,
+                    "name": "electropop"
+                },
+                {
+                    "count": 2,
+                    "name": "eurodance"
+                },
+                {
+                    "count": 2,
+                    "name": "southern hip hop"
+                },
+                {
+                    "count": 1,
+                    "name": "2000s"
+                },
+                {
+                    "count": 7,
+                    "name": "dance-pop"
+                },
+                {
+                    "count": 2,
+                    "name": "pop rap"
+                },
+                {
+                    "count": 2,
+                    "name": "latin pop"
+                },
+                {
+                    "count": 1,
+                    "name": "latin"
+                },
+                {
+                    "count": 1,
+                    "name": "hip house"
+                },
+                {
+                    "count": 2,
+                    "name": "electro house"
+                },
+                {
+                    "count": 0,
+                    "name": "maltido"
+                },
+                {
+                    "count": 0,
+                    "name": "pitbull"
+                },
+                {
+                    "count": 1,
+                    "name": "2010s"
+                },
+                {
+                    "count": 0,
+                    "name": "global warming meltdown"
+                }
+            ]
+        },
+        {
+            "id": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Coldplay",
+            "sort-name": "Coldplay",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "London",
+                "sort-name": "London",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "000000011551394X"
+            ],
+            "life-span": {
+                "begin": "1996-09",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "コールドプレイ",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "コールドプレイ",
+                    "locale": "ja",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Cold Play",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Cold Play",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Coldplay, The",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "The Coldplay",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": "1998"
+                }
+            ],
+            "tags": [
+                {
+                    "count": 5,
+                    "name": "rock"
+                },
+                {
+                    "count": 11,
+                    "name": "pop"
+                },
+                {
+                    "count": 28,
+                    "name": "alternative rock"
+                },
+                {
+                    "count": 9,
+                    "name": "british"
+                },
+                {
+                    "count": 1,
+                    "name": "uk"
+                },
+                {
+                    "count": 0,
+                    "name": "britannique"
+                },
+                {
+                    "count": 1,
+                    "name": "indie rock"
+                },
+                {
+                    "count": 1,
+                    "name": "britpop"
+                },
+                {
+                    "count": 1,
+                    "name": "indie pop"
+                },
+                {
+                    "count": 6,
+                    "name": "pop rock"
+                },
+                {
+                    "count": 0,
+                    "name": "piano pop"
+                },
+                {
+                    "count": 1,
+                    "name": "dream pop"
+                },
+                {
+                    "count": 1,
+                    "name": "piano rock"
+                },
+                {
+                    "count": 0,
+                    "name": "english"
+                },
+                {
+                    "count": 0,
+                    "name": "parlophone"
+                },
+                {
+                    "count": 0,
+                    "name": "rock and indie"
+                },
+                {
+                    "count": 0,
+                    "name": "ambient pop"
+                },
+                {
+                    "count": 0,
+                    "name": "pop/rock"
+                },
+                {
+                    "count": 0,
+                    "name": "chapel"
+                },
+                {
+                    "count": 1,
+                    "name": "post-britpop"
+                }
+            ]
+        },
+        {
+            "id": "e4bc69e2-a064-4f93-ada1-f7f209cc1cc3",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Selena Gomez",
+            "sort-name": "Gomez, Selena",
+            "gender": "female",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "ecd7cc8b-8902-41a9-b298-4e9e4be6c11a",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Grand Prairie",
+                "sort-name": "Grand Prairie",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00595330238"
+            ],
+            "isnis": [
+                "0000000078270714"
+            ],
+            "life-span": {
+                "begin": "1992-07-22",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "セレーナ・ゴメス",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "セレーナ・ゴメス",
+                    "locale": "ja",
+                    "type": "Artist name",
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Gomez, Selena Marie",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Selena Marie Gomez",
+                    "locale": "en",
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "rock"
+                },
+                {
+                    "count": 3,
+                    "name": "pop"
+                },
+                {
+                    "count": 1,
+                    "name": "electropop"
+                },
+                {
+                    "count": 4,
+                    "name": "dance-pop"
+                },
+                {
+                    "count": 0,
+                    "name": "english"
+                },
+                {
+                    "count": 2,
+                    "name": "electro house"
+                },
+                {
+                    "count": 2,
+                    "name": "teen pop"
+                },
+                {
+                    "count": 1,
+                    "name": "contemporary r&b"
+                },
+                {
+                    "count": 1,
+                    "name": "2010s"
+                },
+                {
+                    "count": 2,
+                    "name": "brostep"
+                },
+                {
+                    "count": 1,
+                    "name": "alternative r&b"
+                },
+                {
+                    "count": 1,
+                    "name": "electro-disco"
+                },
+                {
+                    "count": 0,
+                    "name": "englisch"
+                }
+            ]
+        },
+        {
+            "id": "7f742d76-39fa-4939-8e41-e5a2e07ce0a0",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Instasamka",
+            "sort-name": "Instasamka",
+            "gender": "female",
+            "country": "RU",
+            "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "84acdca7-051a-4198-ab62-52bfdc6a5eec",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Tobolsk",
+                "sort-name": "Tobolsk",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Russian rapper",
+            "isnis": [
+                "0000000506155756"
+            ],
+            "life-span": {
+                "begin": "2000-05-11",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Зоте́ева, Да́рья Евге́ньевна",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Да́рья Евге́ньевна Зоте́ева",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Инстасамка",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Инстасамка",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        }
+    ]
+}
