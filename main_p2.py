@@ -155,10 +155,10 @@ def visualize_artist(artist_releases):
 
 
 if __name__ == "__main__":
-    # release_lens = task1_wrapper()
-    # visualize_lens(release_lens)
+    release_lens = task1_wrapper()
+    visualize_lens(release_lens)
 
-    # print('-'*100)
+    print('-'*100)
 
     artist_releases = task2_wrapper()
     visualize_artist(artist_releases)
