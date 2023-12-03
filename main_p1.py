@@ -17,5 +17,5 @@ def sierpinski_trianlges_gen(points, depth, callback):
 
 
 if __name__ == "__main__":
-    sierpinski_trianlges_gen([(0.5, 1), (0, 0), (1, 0)], 5, draw)
-    plt.show()
+    sierpinski_trianlges_gen([(0.5, 1), (0, 0), (1, 0)], 3, draw)
+    plt.show() 
