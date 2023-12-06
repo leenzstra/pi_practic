@@ -13,6 +13,7 @@ def write_json_data(file, data: dict) -> list:
 
 
 def awaiter(duration, func, *args):
+    
     """Функция блокировки выполнения func на duration"""
     time.sleep(duration)
     return func(*args)
